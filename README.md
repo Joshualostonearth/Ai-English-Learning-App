@@ -33,7 +33,7 @@ Project Structure<br>
 engbot/<br>
 ├── assets/                # Images (e.g., LogoDark.png)<br>
 ├── src/<br>
-│   ├── Spelling.js        # Spelling Bee component<br>
+│   ├── Reading.js        # Spelling Bee component<br>
 │   ├── Vocab.js           # Vocabulary Test component<br>
 │   ├── FillinBlanks.js    # Fill in the Blanks component<br>
 │   ├── Writing.js         # Writing component<br>
