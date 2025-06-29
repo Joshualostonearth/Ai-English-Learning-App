@@ -29,6 +29,10 @@ Initial code for Reading.js, Vocab.js, FillinBlanks.js, and Writing.js.<br>
 Debugging errors <br>
 Fixes for imports, navigation, and API handling.<br>
 
+Installations <br>
+npm install //dependencies 
+import your own images for the Icons and buttons
+
 Project Structure<br>
 engbot/<br>
 ├── assets/                # Images (e.g., LogoDark.png)<br>
